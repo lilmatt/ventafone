@@ -1,0 +1,201 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Ventafone */ = {
+		activeExec = 0;
+		executables = (
+			C2139FDA14451800001380E7 /* Ventafone */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = C2139FDA14451800001380E7 /* Ventafone */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Ventafone */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Ventafone */,
+		);
+		codeSenseManager = C2139FEA1445180A001380E7 /* Code sense */;
+		executables = (
+			C2139FDA14451800001380E7 /* Ventafone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					499,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					626,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					551,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					586,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 340249881;
+			PBXWorkspaceStateSaveDate = 340249881;
+		};
+		perUserProjectItems = {
+			C24FFD00144519BB00D4C452 /* PBXBookmark */ = C24FFD00144519BB00D4C452 /* PBXBookmark */;
+			C2D024AD1447CEC800724E3A /* PBXTextBookmark */ = C2D024AD1447CEC800724E3A /* PBXTextBookmark */;
+			C2D024AE1447CEC800724E3A /* PlistBookmark */ = C2D024AE1447CEC800724E3A /* PlistBookmark */;
+			C2D024AF1447CEC800724E3A /* PlistBookmark */ = C2D024AF1447CEC800724E3A /* PlistBookmark */;
+		};
+		sourceControlManager = C2139FE91445180A001380E7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C2139FDA14451800001380E7 /* Ventafone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Ventafone;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C2139FE91445180A001380E7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C2139FEA1445180A001380E7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C24FFD00144519BB00D4C452 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C24FFBC21445188800D4C452 /* Default.png */;
+	};
+	C255FB7C14468D530016CEB2 /* AUComponent.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AUComponent.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AudioUnit.framework/Headers/AUComponent.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {789, 21424}}";
+			sepNavSelRange = "{464, 0}";
+			sepNavVisRange = "{0, 1279}";
+		};
+	};
+	C2D024AD1447CEC800724E3A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C255FB7C14468D530016CEB2 /* AUComponent.h */;
+		name = "AUComponent.h: 23";
+		rLen = 0;
+		rLoc = 464;
+		rType = 0;
+		vrLen = 1279;
+		vrLoc = 0;
+	};
+	C2D024AE1447CEC800724E3A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Ventafone-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/lilmatt/Documents/Ventafone/Ventafone-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	C2D024AF1447CEC800724E3A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Ventafone-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/lilmatt/Documents/Ventafone/Ventafone-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}
